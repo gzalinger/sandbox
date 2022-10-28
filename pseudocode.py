@@ -23,7 +23,7 @@ def process_data(data):
 # ==========================================
 
 def output_data(data):
-    write(data, "C:/folder/cleaned_data.dat")
+    write(data, "C:/folder/processed_data.dat")
 
 # ==========================================
 if __name__ == '__main__':

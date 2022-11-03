@@ -1,0 +1,21 @@
+
+
+This is a practice exercise. 
+
+
+Section 1: List Team Names
+
+Team Names:
+Edgar Palomino 
+Ana
+Benjamin
+
+
+
+
+Section 2: Example Code 
+```{r, message=FALSE}
+library(tidyverse)
+head(mpg, 2)
+```
+

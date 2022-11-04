@@ -1,6 +1,6 @@
 
 
-This is a practice exercise. 
+This is a practice exercise. Git is so much fun!
 
 
 Section 1: List Team Names

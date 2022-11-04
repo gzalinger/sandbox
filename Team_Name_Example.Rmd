@@ -5,7 +5,7 @@ This is a practice exercise.
 
 Section 1: List Team Names
 
-Team Names:
+Nerd Squad Team Names:
 Edgar Palomino 
 Anna Christy
 Benjamin Zalinger
